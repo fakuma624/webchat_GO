@@ -1,2 +1,4 @@
-# readme
-親方とのwebchat制作
+# 運用ルール
+
+Develop brunchを作成しローカルで確認後、masterにPRを出す
+承認後、squashmergeでmerge
